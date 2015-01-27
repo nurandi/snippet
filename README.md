@@ -1,2 +1,2 @@
 # nurandi.net
-Data for nurandi.net
+### Resources for nurandi.net
