@@ -1,2 +1,2 @@
 # nurandi.net
-### Resources for nurandi.net
+### Resources for <nurandi.net>
