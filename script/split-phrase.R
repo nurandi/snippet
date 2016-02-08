@@ -1,4 +1,5 @@
 # Split frase menggunakan regular expression
+# v1. 30 Nov 2015
 # Req: dictionary untuk membentuk frase, yaitu:
 # - frase  	: list frase yg sudah lazim, spt 'ibu kota', 'jawa barat', 'ulang tahun'
 # - awalan 	: list kata awalan spt 'tidak', 'sangat', dll untuk membentuk frase spt 'tidak baik', 'sangat bagus'
