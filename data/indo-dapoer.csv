@@ -1,0 +1,477 @@
+Provinces Name,Provinces Code,Series Name,Series Code,2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020]
+"Bali, Prop.",ID.BA,Number of people employed,SL.EMP.TOTL,2204874,2259748,2242076,2272632,2324805,2416555,2398307,2490870,..,..
+"Bali, Prop.",ID.BA,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,556615,578356,547746,528506,520775,506251,466307,501235,..,..
+"Bali, Prop.",ID.BA,Number of people employed in construction sector,SL.EMP.CNST,185705,182266,207831,205470,196696,171097,179134,158190,..,..
+"Bali, Prop.",ID.BA,Number of people employed in electricity and utilities sector,SL.EMP.ELC,6859,6407,8880,7935,6575,4702,6248,11743,..,..
+"Bali, Prop.",ID.BA,Number of people employed in financial services sector,SL.EMP.FINS,83281,82655,89991,82431,92546,109977,99784,122081,..,..
+"Bali, Prop.",ID.BA,Number of people employed in industrial sector,SL.EMP.IND,290132,307485,312858,316598,287534,370531,341221,364685,..,..
+"Bali, Prop.",ID.BA,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,12635,7546,8918,9666,8597,1252,6536,6073,..,..
+"Bali, Prop.",ID.BA,Number of people employed in social services sector,SL.EMP.SOCL,391376,389686,378358,393056,368535,433377,444422,426465,..,..
+"Bali, Prop.",ID.BA,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,596527,620282,616613,658312,768075,728757,760093,820638,..,..
+"Bali, Prop.",ID.BA,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,81744,85065,70881,70658,75472,90611,94562,79760,..,..
+"Bali, Prop.",ID.BA,Number of people in labor force,SL.TLF,2257258,2307748,2283896,2316758,2372015,2463039,2434450,2525727,..,..
+"Bali, Prop.",ID.BA,Number of people live below the poverty line (in number of people),SI.POV.BPL,166230,168800,182800,195954,196710,178180,180130,171760,..,..
+"Bali, Prop.",ID.BA,Number of people underemployed,SL.EMP.UNDR,519827,505471,607642,513334,479037,512816,550541,583676,..,..
+"Bali, Prop.",ID.BA,Number of people unemployed,SL.UEM.TOTL,52384,48000,41820,44126,47210,46484,36143,34857,..,..
+"Banten, Prop.",ID.BT,Number of people employed,SL.EMP.TOTL,4529660,4688423,4687626,4853992,4825460,5088497,5077400,5332496,..,..
+"Banten, Prop.",ID.BT,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,630122,605484,726880,604998,628047,706126,675738,704057,..,..
+"Banten, Prop.",ID.BT,Number of people employed in construction sector,SL.EMP.CNST,231911,238141,244250,277458,286995,447788,285594,348997,..,..
+"Banten, Prop.",ID.BT,Number of people employed in electricity and utilities sector,SL.EMP.ELC,18050,15953,15500,23758,23419,32475,20871,72016,..,..
+"Banten, Prop.",ID.BT,Number of people employed in financial services sector,SL.EMP.FINS,201536,221861,248908,230777,284122,318114,332922,350084,..,..
+"Banten, Prop.",ID.BT,Number of people employed in industrial sector,SL.EMP.IND,1140427,1213112,1187936,1273015,1198766,1116989,1246230,1267797,..,..
+"Banten, Prop.",ID.BT,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,62908,59356,49477,67720,29998,8641,37392,25039,..,..
+"Banten, Prop.",ID.BT,Number of people employed in social services sector,SL.EMP.SOCL,830535,889871,794299,885348,824992,925978,900185,790717,..,..
+"Banten, Prop.",ID.BT,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,1118385,1146428,1110284,1155449,1189908,1207701,1203637,1341698,..,..
+"Banten, Prop.",ID.BT,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,295786,298217,310092,335469,359213,324685,374831,432091,..,..
+"Banten, Prop.",ID.BT,Number of people in labor force,SL.TLF,5210224,5199564,5181796,5338045,5334843,5587093,5596963,5831157,..,..
+"Banten, Prop.",ID.BT,Number of people live below the poverty line (in number of people),SI.POV.BPL,690490,652800,677500,649188,702400,658110,675040,661360,..,..
+"Banten, Prop.",ID.BT,Number of people underemployed,SL.EMP.UNDR,883658,876632,939783,991184,886451,936626,864071,974999,..,..
+"Banten, Prop.",ID.BT,Number of people unemployed,SL.UEM.TOTL,680564,511141,494170,484053,509383,498596,519563,498661,..,..
+"Bengkulu, Prop.",ID.BE,Number of people employed,SL.EMP.TOTL,873719,859858,832048,868794,904317,964971,932976,963463,..,..
+"Bengkulu, Prop.",ID.BE,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,456467,454203,436481,439778,490218,408667,458715,474705,..,..
+"Bengkulu, Prop.",ID.BE,Number of people employed in construction sector,SL.EMP.CNST,43567,42520,38407,41582,42425,51408,53292,50766,..,..
+"Bengkulu, Prop.",ID.BE,Number of people employed in electricity and utilities sector,SL.EMP.ELC,2828,1722,1354,3168,1581,..,2333,8321,..,..
+"Bengkulu, Prop.",ID.BE,Number of people employed in financial services sector,SL.EMP.FINS,14795,12461,16817,13199,17430,15987,16335,18453,..,..
+"Bengkulu, Prop.",ID.BE,Number of people employed in industrial sector,SL.EMP.IND,25323,34975,25570,26992,35461,50130,48474,52647,..,..
+"Bengkulu, Prop.",ID.BE,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,9480,7701,9881,9864,11262,18450,13731,15270,..,..
+"Bengkulu, Prop.",ID.BE,Number of people employed in social services sector,SL.EMP.SOCL,133988,133842,139328,157098,151522,206197,155059,131870,..,..
+"Bengkulu, Prop.",ID.BE,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,161061,147959,142658,149330,131142,186429,159496,185185,..,..
+"Bengkulu, Prop.",ID.BE,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,26210,24475,21552,27783,23276,27703,25541,26246,..,..
+"Bengkulu, Prop.",ID.BE,Number of people in labor force,SL.TLF,894934,891635,872233,900054,951007,997913,969255,998524,..,..
+"Bengkulu, Prop.",ID.BE,Number of people live below the poverty line (in number of people),SI.POV.BPL,303600,311700,323500,316500,334070,328610,316980,301810,..,..
+"Bengkulu, Prop.",ID.BE,Number of people underemployed,SL.EMP.UNDR,284070,325084,357198,313372,346245,296993,325083,340959,..,..
+"Bengkulu, Prop.",ID.BE,Number of people unemployed,SL.UEM.TOTL,21215,31777,40185,31260,46690,32942,36279,35061,..,..
+"DI Yogyakarta, Prop.",ID.YO,Number of people employed,SL.EMP.TOTL,1798595,1911720,1886071,1956043,1891218,2042400,2053168,2118392,..,..
+"DI Yogyakarta, Prop.",ID.YO,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,431070,531840,531559,496967,436529,475346,451861,432057,..,..
+"DI Yogyakarta, Prop.",ID.YO,Number of people employed in construction sector,SL.EMP.CNST,133128,132341,104506,146349,154956,133849,153306,160636,..,..
+"DI Yogyakarta, Prop.",ID.YO,Number of people employed in electricity and utilities sector,SL.EMP.ELC,4247,2653,5388,2926,2536,4343,3446,11311,..,..
+"DI Yogyakarta, Prop.",ID.YO,Number of people employed in financial services sector,SL.EMP.FINS,50063,58494,54090,73412,56682,56742,78872,86308,..,..
+"DI Yogyakarta, Prop.",ID.YO,Number of people employed in industrial sector,SL.EMP.IND,266768,286177,251892,273329,276386,262108,325061,346919,..,..
+"DI Yogyakarta, Prop.",ID.YO,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,12464,13767,9075,13953,15702,21172,15199,18772,..,..
+"DI Yogyakarta, Prop.",ID.YO,Number of people employed in social services sector,SL.EMP.SOCL,352519,355105,375954,374360,401949,423765,397658,368735,..,..
+"DI Yogyakarta, Prop.",ID.YO,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,480136,468756,487923,505915,485393,589955,553726,601093,..,..
+"DI Yogyakarta, Prop.",ID.YO,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,68200,62587,65684,68832,61085,75120,74039,92561,..,..
+"DI Yogyakarta, Prop.",ID.YO,Number of people in labor force,SL.TLF,1872912,1988539,1949243,2023461,1971463,2099436,2117187,2191742,..,..
+"DI Yogyakarta, Prop.",ID.YO,Number of people live below the poverty line (in number of people),SI.POV.BPL,560880,565300,541900,532585,550230,494940,488530,460100,..,..
+"DI Yogyakarta, Prop.",ID.YO,Number of people underemployed,SL.EMP.UNDR,492667,541728,750994,497464,431878,553207,533675,604525,..,..
+"DI Yogyakarta, Prop.",ID.YO,Number of people unemployed,SL.UEM.TOTL,74317,76819,63172,67418,80245,57036,64019,73350,..,..
+"DKI Jakarta, Prop.",ID.JK,Number of people employed,SL.EMP.TOTL,4588418,4822567,4668239,4634369,4724029,4861832,4509171,4726779,..,..
+"DKI Jakarta, Prop.",ID.JK,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,30404,26278,15629,27009,19978,53646,16518,15762,..,..
+"DKI Jakarta, Prop.",ID.JK,Number of people employed in construction sector,SL.EMP.CNST,163033,179264,180091,219248,229594,184300,187206,161229,..,..
+"DKI Jakarta, Prop.",ID.JK,Number of people employed in electricity and utilities sector,SL.EMP.ELC,15894,6088,6663,16835,20355,16536,18423,39187,..,..
+"DKI Jakarta, Prop.",ID.JK,Number of people employed in financial services sector,SL.EMP.FINS,440825,430197,464978,462276,520543,624408,467707,499801,..,..
+"DKI Jakarta, Prop.",ID.JK,Number of people employed in industrial sector,SL.EMP.IND,690816,697340,667959,669033,661088,436969,587752,616293,..,..
+"DKI Jakarta, Prop.",ID.JK,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,15284,14809,16467,13595,28788,29136,14520,26291,..,..
+"DKI Jakarta, Prop.",ID.JK,Number of people employed in social services sector,SL.EMP.SOCL,1196758,1446909,1242735,1172312,1159508,1159894,1214689,1102746,..,..
+"DKI Jakarta, Prop.",ID.JK,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,1642120,1585875,1645119,1618276,1659677,1821558,1518258,1645704,..,..
+"DKI Jakarta, Prop.",ID.JK,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,393284,435807,428598,435785,424498,535385,484098,619766,..,..
+"DKI Jakarta, Prop.",ID.JK,Number of people in labor force,SL.TLF,5143826,5331007,5108943,5063479,5092219,5178839,4856116,5042698,..,..
+"DKI Jakarta, Prop.",ID.JK,Number of people live below the poverty line (in number of people),SI.POV.BPL,363420,363200,371700,412794,398920,384300,389690,373120,..,..
+"DKI Jakarta, Prop.",ID.JK,Number of people underemployed,SL.EMP.UNDR,502789,462519,499532,465590,502476,566309,504035,606980,..,..
+"DKI Jakarta, Prop.",ID.JK,Number of people unemployed,SL.UEM.TOTL,555408,508440,440704,429110,368190,317007,346945,315919,..,..
+"Gorontalo, Prop.",ID.GO,Number of people employed,SL.EMP.TOTL,445210,458409,458930,479137,493687,546668,524316,555533,..,..
+"Gorontalo, Prop.",ID.GO,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,159123,173235,169416,188033,171104,167445,173899,167142,..,..
+"Gorontalo, Prop.",ID.GO,Number of people employed in construction sector,SL.EMP.CNST,28642,30264,27081,26506,29486,28350,36019,35103,..,..
+"Gorontalo, Prop.",ID.GO,Number of people employed in electricity and utilities sector,SL.EMP.ELC,175,820,719,1704,958,2219,2423,1795,..,..
+"Gorontalo, Prop.",ID.GO,Number of people employed in financial services sector,SL.EMP.FINS,6401,5825,8316,11304,7447,10411,9383,9867,..,..
+"Gorontalo, Prop.",ID.GO,Number of people employed in industrial sector,SL.EMP.IND,44015,38774,35129,41165,35684,40665,41673,62332,..,..
+"Gorontalo, Prop.",ID.GO,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,15020,19233,13239,12121,14330,12994,12252,15474,..,..
+"Gorontalo, Prop.",ID.GO,Number of people employed in social services sector,SL.EMP.SOCL,91393,86734,90725,85080,102859,137175,111233,112780,..,..
+"Gorontalo, Prop.",ID.GO,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,65851,69647,78174,84147,97500,109389,99170,111828,..,..
+"Gorontalo, Prop.",ID.GO,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,34590,33877,36131,29077,34319,38020,38264,39212,..,..
+"Gorontalo, Prop.",ID.GO,Number of people in labor force,SL.TLF,465027,479702,478813,500056,517788,562196,547766,578880,..,..
+"Gorontalo, Prop.",ID.GO,Number of people live below the poverty line (in number of people),SI.POV.BPL,198270,186900,198500,195096,206840,203190,205370,198510,..,..
+"Gorontalo, Prop.",ID.GO,Number of people underemployed,SL.EMP.UNDR,137745,155026,152130,138891,140344,140242,155866,157852,..,..
+"Gorontalo, Prop.",ID.GO,Number of people unemployed,SL.UEM.TOTL,19817,21293,19883,20919,24101,15528,23450,23347,..,..
+"Jambi, Prop.",ID.JA,Number of people employed,SL.EMP.TOTL,1434998,1447955,1397247,1491038,1550403,1624522,1657817,1721362,..,..
+"Jambi, Prop.",ID.JA,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,770848,798763,735824,736204,819545,800719,805086,815049,..,..
+"Jambi, Prop.",ID.JA,Number of people employed in construction sector,SL.EMP.CNST,63098,62904,60699,61806,64985,88403,84386,92368,..,..
+"Jambi, Prop.",ID.JA,Number of people employed in electricity and utilities sector,SL.EMP.ELC,4525,2858,1493,4362,2394,6736,5639,7858,..,..
+"Jambi, Prop.",ID.JA,Number of people employed in financial services sector,SL.EMP.FINS,22822,22639,21927,25439,21314,25668,24802,31643,..,..
+"Jambi, Prop.",ID.JA,Number of people employed in industrial sector,SL.EMP.IND,48786,47899,52543,52473,61998,71547,74317,85674,..,..
+"Jambi, Prop.",ID.JA,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,21517,28078,26268,33853,26732,41920,34537,44410,..,..
+"Jambi, Prop.",ID.JA,Number of people employed in social services sector,SL.EMP.SOCL,214648,205682,212204,269569,236782,240973,273880,255851,..,..
+"Jambi, Prop.",ID.JA,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,231221,233803,233504,251811,261623,291469,293101,330055,..,..
+"Jambi, Prop.",ID.JA,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,57533,45329,52785,55521,55030,57087,62069,58454,..,..
+"Jambi, Prop.",ID.JA,Number of people in labor force,SL.TLF,1495167,1494974,1467007,1570822,1620752,1692193,1724633,1790643,..,..
+"Jambi, Prop.",ID.JA,Number of people live below the poverty line (in number of people),SI.POV.BPL,272670,271700,277700,281751,300710,289810,286550,281690,..,..
+"Jambi, Prop.",ID.JA,Number of people underemployed,SL.EMP.UNDR,642117,681893,698679,678410,656872,596998,653973,622233,..,..
+"Jambi, Prop.",ID.JA,Number of people unemployed,SL.UEM.TOTL,60169,47019,69760,79784,70349,67671,66816,69281,..,..
+"Jawa Barat, Prop.",ID.JR,Number of people employed,SL.EMP.TOTL,17500000,18715843,18731943,19230943,18791482,19202038,20551575,20779888,..,..
+"Jawa Barat, Prop.",ID.JR,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,3675713,4100182,3804324,3821320,3095547,3154509,3082506,2869492,..,..
+"Jawa Barat, Prop.",ID.JR,Number of people employed in construction sector,SL.EMP.CNST,1194823,1301584,1284643,1485424,1691596,1424529,1542800,1560645,..,..
+"Jawa Barat, Prop.",ID.JR,Number of people employed in electricity and utilities sector,SL.EMP.ELC,35078,50674,64189,59651,68478,60971,79306,174940,..,..
+"Jawa Barat, Prop.",ID.JR,Number of people employed in financial services sector,SL.EMP.FINS,494960,504859,539379,600262,669791,814691,843532,857553,..,..
+"Jawa Barat, Prop.",ID.JR,Number of people employed in industrial sector,SL.EMP.IND,3571915,3942610,3935610,3902850,3945316,3884668,4185500,4349675,..,..
+"Jawa Barat, Prop.",ID.JR,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,131781,194658,140469,142371,136943,113601,135123,122945,..,..
+"Jawa Barat, Prop.",ID.JR,Number of people employed in social services sector,SL.EMP.SOCL,2699014,2876947,3124606,3291591,3045734,3297957,3504281,3259409,..,..
+"Jawa Barat, Prop.",ID.JR,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,4554503,4679343,4799189,4926566,5101162,5338698,5943425,6216561,..,..
+"Jawa Barat, Prop.",ID.JR,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,1096994,1064986,1039534,1000908,1036915,1112414,1235102,1368668,..,..
+"Jawa Barat, Prop.",ID.JR,Number of people in labor force,SL.TLF,19400000,20566966,20620610,21006139,20586356,21075899,22391003,22631647,..,..
+"Jawa Barat, Prop.",ID.JR,Number of people live below the poverty line (in number of people),SI.POV.BPL,4648630,4477500,4375200,4238961,..,..,4168440,3615790,..,..
+"Jawa Barat, Prop.",ID.JR,Number of people underemployed,SL.EMP.UNDR,4173835,4425317,4898368,4805976,4354108,3762932,4438054,4237769,..,..
+"Jawa Barat, Prop.",ID.JR,Number of people unemployed,SL.UEM.TOTL,1901843,1851123,1888667,1775196,1794874,1873861,1839428,1851759,..,..
+"Jawa Tengah, Prop.",ID.JT,Number of people employed,SL.EMP.TOTL,15900000,16591701,16469960,16550682,16435142,16511136,17186674,17245548,..,..
+"Jawa Tengah, Prop.",ID.JT,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,5376452,5302703,5173387,5173986,4709707,5067891,4323993,4204249,..,..
+"Jawa Tengah, Prop.",ID.JT,Number of people employed in construction sector,SL.EMP.CNST,1097380,1218749,966353,1269113,1529103,1430779,1493314,1508556,..,..
+"Jawa Tengah, Prop.",ID.JT,Number of people employed in electricity and utilities sector,SL.EMP.ELC,29152,26703,20461,27989,33925,37600,47987,86213,..,..
+"Jawa Tengah, Prop.",ID.JT,Number of people employed in financial services sector,SL.EMP.FINS,264681,285083,314879,322402,343870,301484,419244,420952,..,..
+"Jawa Tengah, Prop.",ID.JT,Number of people employed in industrial sector,SL.EMP.IND,3046724,3368572,3104519,3173217,3267676,3251749,3563275,3756317,..,..
+"Jawa Tengah, Prop.",ID.JT,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,79440,93423,68434,87212,124545,123108,120541,107647,..,..
+"Jawa Tengah, Prop.",ID.JT,Number of people employed in social services sector,SL.EMP.SOCL,2057071,2207144,2510143,2193884,2074879,2037741,2479523,2071851,..,..
+"Jawa Tengah, Prop.",ID.JT,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,3402091,3534739,3694115,3715488,3803763,3711052,4125776,4439096,..,..
+"Jawa Tengah, Prop.",ID.JT,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,563144,554585,617669,587391,547674,549732,613021,650667,..,..
+"Jawa Tengah, Prop.",ID.JT,Number of people in labor force,SL.TLF,16900000,17573120,17524022,17547026,17298925,17312466,18010612,18063490,..,..
+"Jawa Tengah, Prop.",ID.JT,Number of people live below the poverty line (in number of people),SI.POV.BPL,5107360,4977400,4811300,4561825,..,..,4450720,3897200,..,..
+"Jawa Tengah, Prop.",ID.JT,Number of people underemployed,SL.EMP.UNDR,4907438,4934627,5206189,4898614,4514343,4221326,4334182,4673832,..,..
+"Jawa Tengah, Prop.",ID.JT,Number of people unemployed,SL.UEM.TOTL,1002662,981419,1054062,996344,863783,801330,823938,817942,..,..
+"Jawa Timur, Prop.",ID.JI,Number of people employed,SL.EMP.TOTL,18900000,19411256,19553910,19306508,19367777,19114563,20099220,20449949,..,..
+"Jawa Timur, Prop.",ID.JI,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,7520067,7696993,7411285,7261367,7083252,6975568,6713893,6643543,..,..
+"Jawa Timur, Prop.",ID.JI,Number of people employed in construction sector,SL.EMP.CNST,1158525,1250444,1047454,1259443,1510085,1469473,1423169,1444376,..,..
+"Jawa Timur, Prop.",ID.JI,Number of people employed in electricity and utilities sector,SL.EMP.ELC,24399,31106,28700,35849,29217,32530,55908,127035,..,..
+"Jawa Timur, Prop.",ID.JI,Number of people employed in financial services sector,SL.EMP.FINS,362314,348874,344795,421788,410912,422899,503394,486375,..,..
+"Jawa Timur, Prop.",ID.JI,Number of people employed in industrial sector,SL.EMP.IND,2665473,2864864,2779265,2776552,2699676,2765288,3016837,3247537,..,..
+"Jawa Timur, Prop.",ID.JI,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,132588,144683,121951,143338,125813,135184,158435,174812,..,..
+"Jawa Timur, Prop.",ID.JI,Number of people employed in social services sector,SL.EMP.SOCL,2458836,2506541,3037842,2694528,2751360,2599099,2947210,2638173,..,..
+"Jawa Timur, Prop.",ID.JI,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,3908294,3887752,4101445,4026671,4121312,4016808,4580393,4976285,..,..
+"Jawa Timur, Prop.",ID.JI,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,709844,679999,681173,686972,636150,697714,699981,711813,..,..
+"Jawa Timur, Prop.",ID.JI,Number of people in labor force,SL.TLF,19800000,20238054,20432453,20149998,20274681,19953846,20937716,21300423,..,..
+"Jawa Timur, Prop.",ID.JI,Number of people live below the poverty line (in number of people),SI.POV.BPL,5356210,5071000,4893000,4748422,..,..,4617010,4332590,..,..
+"Jawa Timur, Prop.",ID.JI,Number of people underemployed,SL.EMP.UNDR,6379970,6390923,6472059,6481523,6244393,5602666,5728018,6166112,..,..
+"Jawa Timur, Prop.",ID.JI,Number of people unemployed,SL.UEM.TOTL,821546,826798,878543,843490,906904,839283,838496,850474,..,..
+"Kalimantan Barat, Prop.",ID.KB,Number of people employed,SL.EMP.TOTL,2146572,2208259,2172337,2226510,2235887,2287823,2303198,2346881,..,..
+"Kalimantan Barat, Prop.",ID.KB,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,1294481,1313522,1256660,1285973,1292542,1112674,1192196,1195545,..,..
+"Kalimantan Barat, Prop.",ID.KB,Number of people employed in construction sector,SL.EMP.CNST,97395,114408,114068,118559,104753,143606,144758,151211,..,..
+"Kalimantan Barat, Prop.",ID.KB,Number of people employed in electricity and utilities sector,SL.EMP.ELC,4409,4334,3717,5454,4127,5058,9612,10224,..,..
+"Kalimantan Barat, Prop.",ID.KB,Number of people employed in financial services sector,SL.EMP.FINS,21002,26454,27576,34960,34874,49808,41164,45369,..,..
+"Kalimantan Barat, Prop.",ID.KB,Number of people employed in industrial sector,SL.EMP.IND,89493,81944,72327,81591,86893,125090,127325,150714,..,..
+"Kalimantan Barat, Prop.",ID.KB,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,78646,86481,89420,84622,37312,50845,35799,36230,..,..
+"Kalimantan Barat, Prop.",ID.KB,Number of people employed in social services sector,SL.EMP.SOCL,232277,245026,258590,252935,267813,320922,323228,288777,..,..
+"Kalimantan Barat, Prop.",ID.KB,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,277324,290907,292824,311441,351887,412111,362134,394230,..,..
+"Kalimantan Barat, Prop.",ID.KB,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,51545,45183,57155,50975,55686,67709,66982,74581,..,..
+"Kalimantan Barat, Prop.",ID.KB,Number of people in labor force,SL.TLF,2233195,2288015,2262732,2320229,2357224,2388758,2408259,2451399,..,..
+"Kalimantan Barat, Prop.",ID.KB,Number of people live below the poverty line (in number of people),SI.POV.BPL,380110,363300,407300,381916,383700,381350,387430,387080,..,..
+"Kalimantan Barat, Prop.",ID.KB,Number of people underemployed,SL.EMP.UNDR,853313,969268,952109,876460,825458,724843,844703,829993,..,..
+"Kalimantan Barat, Prop.",ID.KB,Number of people unemployed,SL.UEM.TOTL,86623,79756,90395,93719,121337,100935,105061,104518,..,..
+"Kalimantan Selatan, Prop.",ID.KS,Number of people employed,SL.EMP.TOTL,1824929,1839386,1830813,1867462,1889502,1965088,1975161,2021666,..,..
+"Kalimantan Selatan, Prop.",ID.KS,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,756416,763492,742454,743510,680409,708428,672550,683195,..,..
+"Kalimantan Selatan, Prop.",ID.KS,Number of people employed in construction sector,SL.EMP.CNST,94961,98443,100531,100164,102094,92749,95361,92536,..,..
+"Kalimantan Selatan, Prop.",ID.KS,Number of people employed in electricity and utilities sector,SL.EMP.ELC,4317,4640,3803,5961,5666,4911,8335,13024,..,..
+"Kalimantan Selatan, Prop.",ID.KS,Number of people employed in financial services sector,SL.EMP.FINS,35752,42559,34452,31369,45322,30972,46542,48542,..,..
+"Kalimantan Selatan, Prop.",ID.KS,Number of people employed in industrial sector,SL.EMP.IND,117126,130691,134013,112800,126657,135109,157649,178084,..,..
+"Kalimantan Selatan, Prop.",ID.KS,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,74277,88524,77655,78129,70855,55606,78042,78053,..,..
+"Kalimantan Selatan, Prop.",ID.KS,Number of people employed in social services sector,SL.EMP.SOCL,274230,250365,273583,281070,328093,369004,345472,308764,..,..
+"Kalimantan Selatan, Prop.",ID.KS,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,390121,392490,392182,434798,461527,494570,475064,518502,..,..
+"Kalimantan Selatan, Prop.",ID.KS,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,77729,68182,72140,79661,68879,73739,96146,100966,..,..
+"Kalimantan Selatan, Prop.",ID.KS,Number of people in labor force,SL.TLF,1925684,1939065,1900350,1941229,1987250,2078384,2074117,2116944,..,..
+"Kalimantan Selatan, Prop.",ID.KS,Number of people live below the poverty line (in number of people),SI.POV.BPL,194620,189900,184300,189496,198440,195700,193920,189030,..,..
+"Kalimantan Selatan, Prop.",ID.KS,Number of people underemployed,SL.EMP.UNDR,699635,727593,772385,710735,668370,598538,678665,693141,..,..
+"Kalimantan Selatan, Prop.",ID.KS,Number of people unemployed,SL.UEM.TOTL,100755,99679,69537,73767,97748,113296,98956,95278,..,..
+"Kalimantan Tengah, Prop.",ID.KT,Number of people employed,SL.EMP.TOTL,1105701,1122845,1124017,1154489,1214681,1248189,1222707,1301002,..,..
+"Kalimantan Tengah, Prop.",ID.KT,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,605378,620092,596570,613186,562671,451873,490488,499137,..,..
+"Kalimantan Tengah, Prop.",ID.KT,Number of people employed in construction sector,SL.EMP.CNST,52107,53414,46685,49929,71788,78260,78512,78437,..,..
+"Kalimantan Tengah, Prop.",ID.KT,Number of people employed in electricity and utilities sector,SL.EMP.ELC,3712,1817,1992,2830,2614,5389,4473,5959,..,..
+"Kalimantan Tengah, Prop.",ID.KT,Number of people employed in financial services sector,SL.EMP.FINS,14373,11691,17364,14973,20314,16360,20288,21894,..,..
+"Kalimantan Tengah, Prop.",ID.KT,Number of people employed in industrial sector,SL.EMP.IND,31277,29672,33193,28079,43109,62230,53360,71912,..,..
+"Kalimantan Tengah, Prop.",ID.KT,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,60463,69084,79988,69910,66846,128708,77539,81662,..,..
+"Kalimantan Tengah, Prop.",ID.KT,Number of people employed in social services sector,SL.EMP.SOCL,151241,151175,157188,168817,195835,216664,218415,217012,..,..
+"Kalimantan Tengah, Prop.",ID.KT,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,157741,153993,155387,178791,212803,247390,240396,276854,..,..
+"Kalimantan Tengah, Prop.",ID.KT,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,29409,31907,35650,27974,38701,41315,39236,48135,..,..
+"Kalimantan Tengah, Prop.",ID.KT,Number of people in labor force,SL.TLF,1134587,1158500,1158834,1193171,1272461,1311427,1276669,1355557,..,..
+"Kalimantan Tengah, Prop.",ID.KT,Number of people live below the poverty line (in number of people),SI.POV.BPL,146910,148000,149400,148825,147700,143490,139160,136930,..,..
+"Kalimantan Tengah, Prop.",ID.KT,Number of people underemployed,SL.EMP.UNDR,360974,399665,457148,433065,396447,394068,376140,399993,..,..
+"Kalimantan Tengah, Prop.",ID.KT,Number of people unemployed,SL.UEM.TOTL,28886,35655,34817,38682,57780,63238,53962,54555,..,..
+"Kalimantan Timur, Prop.",ID.KI,Number of people employed,SL.EMP.TOTL,1591003,1619301,1603915,1677466,1423957,1581239,1540675,1618285,..,..
+"Kalimantan Timur, Prop.",ID.KI,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,454258,463908,431315,466980,320344,345522,328448,347901,..,..
+"Kalimantan Timur, Prop.",ID.KI,Number of people employed in construction sector,SL.EMP.CNST,85327,104514,115653,101046,101207,92860,83247,84908,..,..
+"Kalimantan Timur, Prop.",ID.KI,Number of people employed in electricity and utilities sector,SL.EMP.ELC,7063,6231,5003,3724,9902,2121,6601,15107,..,..
+"Kalimantan Timur, Prop.",ID.KI,Number of people employed in financial services sector,SL.EMP.FINS,48236,53416,61480,55339,58055,73397,66583,68728,..,..
+"Kalimantan Timur, Prop.",ID.KI,Number of people employed in industrial sector,SL.EMP.IND,84554,97258,86778,102897,78920,100317,96378,115908,..,..
+"Kalimantan Timur, Prop.",ID.KI,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,162640,158543,158618,174403,135417,130114,125663,144717,..,..
+"Kalimantan Timur, Prop.",ID.KI,Number of people employed in social services sector,SL.EMP.SOCL,307885,314506,308688,318304,285673,332325,356745,317956,..,..
+"Kalimantan Timur, Prop.",ID.KI,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,364266,348042,347661,373070,346821,418754,388637,434865,..,..
+"Kalimantan Timur, Prop.",ID.KI,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,76774,72883,88719,81703,87618,85829,88373,88195,..,..
+"Kalimantan Timur, Prop.",ID.KI,Number of people in labor force,SL.TLF,1764696,1776951,1742380,1811129,1539491,1717892,1654964,1732598,..,..
+"Kalimantan Timur, Prop.",ID.KI,Number of people live below the poverty line (in number of people),SI.POV.BPL,247900,253300,248700,252682,212890,212920,220170,218900,..,..
+"Kalimantan Timur, Prop.",ID.KI,Number of people underemployed,SL.EMP.UNDR,363369,357167,331509,396288,290991,355105,329222,345415,..,..
+"Kalimantan Timur, Prop.",ID.KI,Number of people unemployed,SL.UEM.TOTL,173693,157650,138465,133663,115534,136653,114289,114313,..,..
+"Kalimantan Utara, Prop.",ID.KU,Number of people employed,SL.EMP.TOTL,..,..,..,..,267023,273423,312416,323400,..,..
+"Kalimantan Utara, Prop.",ID.KU,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,..,..,..,..,92531,85929,83407,85193,..,..
+"Kalimantan Utara, Prop.",ID.KU,Number of people employed in construction sector,SL.EMP.CNST,..,..,..,..,16062,13042,18266,17178,..,..
+"Kalimantan Utara, Prop.",ID.KU,Number of people employed in electricity and utilities sector,SL.EMP.ELC,..,..,..,..,1771,2691,1925,2677,..,..
+"Kalimantan Utara, Prop.",ID.KU,Number of people employed in financial services sector,SL.EMP.FINS,..,..,..,..,4820,3886,9752,12007,..,..
+"Kalimantan Utara, Prop.",ID.KU,Number of people employed in industrial sector,SL.EMP.IND,..,..,..,..,12352,25984,23877,27530,..,..
+"Kalimantan Utara, Prop.",ID.KU,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,..,..,..,..,10352,7954,8879,10752,..,..
+"Kalimantan Utara, Prop.",ID.KU,Number of people employed in social services sector,SL.EMP.SOCL,..,..,..,..,63053,62219,81992,77706,..,..
+"Kalimantan Utara, Prop.",ID.KU,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,..,..,..,..,53008,52536,66586,70137,..,..
+"Kalimantan Utara, Prop.",ID.KU,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,..,..,..,..,13074,19182,17732,20220,..,..
+"Kalimantan Utara, Prop.",ID.KU,Number of people in labor force,SL.TLF,..,..,..,..,283102,288522,330731,341197,..,..
+"Kalimantan Utara, Prop.",ID.KU,Number of people live below the poverty line (in number of people),SI.POV.BPL,..,..,..,..,39690,41120,49470,50350,..,..
+"Kalimantan Utara, Prop.",ID.KU,Number of people underemployed,SL.EMP.UNDR,..,..,..,..,56071,39434,87691,99513,..,..
+"Kalimantan Utara, Prop.",ID.KU,Number of people unemployed,SL.UEM.TOTL,..,..,..,..,16079,15099,18315,17797,..,..
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,Number of people employed,SL.EMP.TOTL,589634,588655,597613,604223,623949,686830,672618,701366,..,..
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,152884,168984,169680,189774,228578,220658,219002,217325,..,..
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,Number of people employed in construction sector,SL.EMP.CNST,26817,31854,30550,31168,28787,22041,35520,35619,..,..
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,Number of people employed in electricity and utilities sector,SL.EMP.ELC,1435,1826,2030,1250,2870,6240,2502,3696,..,..
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,Number of people employed in financial services sector,SL.EMP.FINS,11209,10614,11279,13209,13139,13662,11856,14179,..,..
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,Number of people employed in industrial sector,SL.EMP.IND,32186,36565,36525,35500,35225,55056,42623,49462,..,..
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,148549,128380,125026,105754,76399,78856,91438,95721,..,..
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,Number of people employed in social services sector,SL.EMP.SOCL,91443,79136,94717,86683,97987,121562,118203,109687,..,..
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,111897,117511,110589,123591,122789,148989,134065,159259,..,..
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,13214,13785,17217,17294,18175,19766,17409,16418,..,..
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,Number of people in labor force,SL.TLF,611698,609267,620270,636959,665842,705173,699017,727918,..,..
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,Number of people live below the poverty line (in number of people),SI.POV.BPL,72060,71400,69400,67227,74090,72760,74090,76260,..,..
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,Number of people underemployed,SL.EMP.UNDR,164925,175707,225748,174909,168924,162878,171943,176343,..,..
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,Number of people unemployed,SL.UEM.TOTL,22064,20612,22657,32736,41893,18343,26399,26552,..,..
+"Kepulauan Riau, Prop.",ID.KR,Number of people employed,SL.EMP.TOTL,781824,802795,806073,819656,836670,859813,896931,901019,..,..
+"Kepulauan Riau, Prop.",ID.KR,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,97757,95084,84322,83706,92243,102943,78782,72615,..,..
+"Kepulauan Riau, Prop.",ID.KR,Number of people employed in construction sector,SL.EMP.CNST,59755,59797,65461,60074,68849,54696,90041,85073,..,..
+"Kepulauan Riau, Prop.",ID.KR,Number of people employed in electricity and utilities sector,SL.EMP.ELC,4551,2604,3456,3679,2775,2945,5951,11524,..,..
+"Kepulauan Riau, Prop.",ID.KR,Number of people employed in financial services sector,SL.EMP.FINS,26728,27938,19822,29749,30103,24301,39226,35935,..,..
+"Kepulauan Riau, Prop.",ID.KR,Number of people employed in industrial sector,SL.EMP.IND,195368,189422,213961,201241,207230,144005,191572,210563,..,..
+"Kepulauan Riau, Prop.",ID.KR,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,15952,16648,17057,12639,13992,15265,8773,10465,..,..
+"Kepulauan Riau, Prop.",ID.KR,Number of people employed in social services sector,SL.EMP.SOCL,139273,129619,119846,138574,167288,232615,190602,179401,..,..
+"Kepulauan Riau, Prop.",ID.KR,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,193860,222125,224798,233734,199300,225405,235539,229272,..,..
+"Kepulauan Riau, Prop.",ID.KR,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,48580,59558,57350,56260,54890,57638,56445,66171,..,..
+"Kepulauan Riau, Prop.",ID.KR,Number of people in labor force,SL.TLF,847997,844393,854150,878415,891988,931435,966091,970132,..,..
+"Kepulauan Riau, Prop.",ID.KR,Number of people live below the poverty line (in number of people),SI.POV.BPL,129560,131200,119100,124171,122400,120410,125370,131680,..,..
+"Kepulauan Riau, Prop.",ID.KR,Number of people underemployed,SL.EMP.UNDR,107551,108004,128722,113030,119353,137841,134524,156002,..,..
+"Kepulauan Riau, Prop.",ID.KR,Number of people unemployed,SL.UEM.TOTL,66173,41598,48077,58759,55318,71622,69160,69113,..,..
+"Lampung, Prop.",ID.LA,Number of people employed,SL.EMP.TOTL,3482301,3532975,3471602,3673158,3635258,3931321,3896230,4060377,..,..
+"Lampung, Prop.",ID.LA,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,1715268,1709224,1794308,1795206,1773129,1897875,1790035,1731718,..,..
+"Lampung, Prop.",ID.LA,Number of people employed in construction sector,SL.EMP.CNST,162881,194476,148052,182889,222906,220131,243393,250333,..,..
+"Lampung, Prop.",ID.LA,Number of people employed in electricity and utilities sector,SL.EMP.ELC,3636,5245,5703,4548,5845,4946,10550,17472,..,..
+"Lampung, Prop.",ID.LA,Number of people employed in financial services sector,SL.EMP.FINS,40446,34513,51795,52812,55129,51944,68566,64327,..,..
+"Lampung, Prop.",ID.LA,Number of people employed in industrial sector,SL.EMP.IND,358572,335760,289173,292237,331444,331032,306052,365766,..,..
+"Lampung, Prop.",ID.LA,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,27239,27992,13558,15150,28875,17281,23806,26416,..,..
+"Lampung, Prop.",ID.LA,Number of people employed in social services sector,SL.EMP.SOCL,438887,460102,449490,524955,408951,524620,511404,486621,..,..
+"Lampung, Prop.",ID.LA,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,605747,639593,600918,662798,685593,753224,756930,930246,..,..
+"Lampung, Prop.",ID.LA,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,129625,126070,118605,142563,123386,130268,185494,187478,..,..
+"Lampung, Prop.",ID.LA,Number of people in labor force,SL.TLF,3696066,3724119,3681084,3857936,3832108,4121668,4072487,4232711,..,..
+"Lampung, Prop.",ID.LA,Number of people live below the poverty line (in number of people),SI.POV.BPL,1298710,1253800,1144800,1143934,..,..,1131730,1097050,..,..
+"Lampung, Prop.",ID.LA,Number of people underemployed,SL.EMP.UNDR,1349366,1279008,1626504,1371752,1379574,1280268,1442359,1482227,..,..
+"Lampung, Prop.",ID.LA,Number of people unemployed,SL.UEM.TOTL,213765,191144,209482,184778,196850,190347,176257,172334,..,..
+"Maluku Utara, Prop.",ID.MU,Number of people employed,SL.EMP.TOTL,437870,452671,454978,456017,482543,503479,488715,515615,..,..
+"Maluku Utara, Prop.",ID.MU,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,241341,247445,249429,239450,242381,205536,199027,235800,..,..
+"Maluku Utara, Prop.",ID.MU,Number of people employed in construction sector,SL.EMP.CNST,18221,17849,16424,22678,23241,21779,29793,25393,..,..
+"Maluku Utara, Prop.",ID.MU,Number of people employed in electricity and utilities sector,SL.EMP.ELC,809,960,731,1199,1211,3415,855,2354,..,..
+"Maluku Utara, Prop.",ID.MU,Number of people employed in financial services sector,SL.EMP.FINS,2929,4041,3762,3800,6110,4753,10184,9072,..,..
+"Maluku Utara, Prop.",ID.MU,Number of people employed in industrial sector,SL.EMP.IND,10763,15109,9339,12728,17392,44526,34058,28365,..,..
+"Maluku Utara, Prop.",ID.MU,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,7605,11050,15111,6607,11874,13950,14444,13471,..,..
+"Maluku Utara, Prop.",ID.MU,Number of people employed in social services sector,SL.EMP.SOCL,73175,75397,80846,84430,84723,104460,106991,99016,..,..
+"Maluku Utara, Prop.",ID.MU,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,55287,53835,54661,59161,63718,71983,63898,69187,..,..
+"Maluku Utara, Prop.",ID.MU,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,27740,26985,24675,25964,31893,33077,29465,32957,..,..
+"Maluku Utara, Prop.",ID.MU,Number of people in labor force,SL.TLF,463604,475392,472965,481504,513601,524526,516231,541446,..,..
+"Maluku Utara, Prop.",ID.MU,Number of people live below the poverty line (in number of people),SI.POV.BPL,97310,88300,85600,84790,79900,74670,76470,81460,..,..
+"Maluku Utara, Prop.",ID.MU,Number of people underemployed,SL.EMP.UNDR,182428,195889,193217,185431,197227,145662,157787,157582,..,..
+"Maluku Utara, Prop.",ID.MU,Number of people unemployed,SL.UEM.TOTL,25734,22721,17987,25487,31058,21047,27516,25831,..,..
+"Maluku, Prop.",ID.MA,Number of people employed,SL.EMP.TOTL,650112,617069,602429,601651,655063,690786,642061,700143,..,..
+"Maluku, Prop.",ID.MA,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,321494,295505,290707,289357,306490,270301,240829,257643,..,..
+"Maluku, Prop.",ID.MA,Number of people employed in construction sector,SL.EMP.CNST,23356,19637,27856,21472,32452,27609,33791,43255,..,..
+"Maluku, Prop.",ID.MA,Number of people employed in electricity and utilities sector,SL.EMP.ELC,2425,3747,2668,1465,944,4688,3859,5526,..,..
+"Maluku, Prop.",ID.MA,Number of people employed in financial services sector,SL.EMP.FINS,7928,6430,8455,9197,8260,15590,8715,9831,..,..
+"Maluku, Prop.",ID.MA,Number of people employed in industrial sector,SL.EMP.IND,45338,37791,20154,20248,23342,56968,51656,59222,..,..
+"Maluku, Prop.",ID.MA,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,5947,10800,9688,9705,5649,7814,9081,10663,..,..
+"Maluku, Prop.",ID.MA,Number of people employed in social services sector,SL.EMP.SOCL,113756,107671,120901,122892,119344,157636,152709,138660,..,..
+"Maluku, Prop.",ID.MA,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,92986,97735,84496,80399,108289,89096,98884,121771,..,..
+"Maluku, Prop.",ID.MA,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,36882,37753,37504,46916,50293,61084,42537,53572,..,..
+"Maluku, Prop.",ID.MA,Number of people in labor force,SL.TLF,701893,668307,668721,672304,727259,743149,707796,755034,..,..
+"Maluku, Prop.",ID.MA,Number of people live below the poverty line (in number of people),SI.POV.BPL,360320,338900,315200,307016,328410,327720,320510,320080,..,..
+"Maluku, Prop.",ID.MA,Number of people underemployed,SL.EMP.UNDR,264805,236864,226951,224185,217101,238052,197522,209228,..,..
+"Maluku, Prop.",ID.MA,Number of people unemployed,SL.UEM.TOTL,51781,51238,66292,70653,72196,52363,65735,54891,..,..
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,Number of people employed,SL.EMP.TOTL,1852473,1820921,1842671,1931823,1966018,2087045,2138512,2203717,..,..
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,898225,854278,860231,851785,881357,735063,831142,865803,..,..
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,Number of people employed in construction sector,SL.EMP.CNST,113934,130960,106820,126062,136852,138894,160472,166824,..,..
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,Number of people employed in electricity and utilities sector,SL.EMP.ELC,3966,3293,4810,3658,5069,8004,7533,11773,..,..
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,Number of people employed in financial services sector,SL.EMP.FINS,25040,25252,23079,26881,21779,33708,34992,35151,..,..
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,Number of people employed in industrial sector,SL.EMP.IND,72509,74706,74656,91132,93698,123588,146960,171870,..,..
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,11739,14120,13692,16132,14708,18681,17363,17702,..,..
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,Number of people employed in social services sector,SL.EMP.SOCL,358704,358750,381038,409377,408901,537443,487508,432881,..,..
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,299183,286198,313745,334125,328129,391536,367096,412027,..,..
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,69173,73364,64600,72671,75525,100128,85446,89686,..,..
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,Number of people in labor force,SL.TLF,2001259,1999369,2050076,2123312,2182824,2257943,2288777,2354881,..,..
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,Number of people live below the poverty line (in number of people),SI.POV.BPL,894810,909000,856900,837420,851590,848440,872610,839490,..,..
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,Number of people underemployed,SL.EMP.UNDR,914282,921070,876565,862031,804020,723593,799856,837826,..,..
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,Number of people unemployed,SL.UEM.TOTL,148786,178448,207405,191489,216806,170898,150265,151164,..,..
+"Nusa Tenggara Barat, Prop.",ID.NB,Number of people employed,SL.EMP.TOTL,1962240,2024611,2032282,2094100,2127503,2367310,2316720,2154124,..,..
+"Nusa Tenggara Barat, Prop.",ID.NB,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,872088,897224,920401,903139,829993,920910,829637,721283,..,..
+"Nusa Tenggara Barat, Prop.",ID.NB,Number of people employed in construction sector,SL.EMP.CNST,89284,95486,108364,104864,156641,154212,171694,148826,..,..
+"Nusa Tenggara Barat, Prop.",ID.NB,Number of people employed in electricity and utilities sector,SL.EMP.ELC,2508,3797,1556,2580,3191,6289,6793,21051,..,..
+"Nusa Tenggara Barat, Prop.",ID.NB,Number of people employed in financial services sector,SL.EMP.FINS,29560,28222,30982,29226,24356,41655,37474,36120,..,..
+"Nusa Tenggara Barat, Prop.",ID.NB,Number of people employed in industrial sector,SL.EMP.IND,169577,171869,163533,186093,199542,209944,272857,266677,..,..
+"Nusa Tenggara Barat, Prop.",ID.NB,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,49587,49108,34182,38635,34544,55652,31176,35210,..,..
+"Nusa Tenggara Barat, Prop.",ID.NB,Number of people employed in social services sector,SL.EMP.SOCL,293819,323139,317354,324892,350309,408119,363364,316849,..,..
+"Nusa Tenggara Barat, Prop.",ID.NB,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,370239,384473,383756,422922,459137,458913,514871,529158,..,..
+"Nusa Tenggara Barat, Prop.",ID.NB,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,85578,71293,72154,81749,69790,111616,88854,78950,..,..
+"Nusa Tenggara Barat, Prop.",ID.NB,Number of people in labor force,SL.TLF,2072782,2135332,2146002,2221810,2255879,2464331,2396169,2237381,..,..
+"Nusa Tenggara Barat, Prop.",ID.NB,Number of people live below the poverty line (in number of people),SI.POV.BPL,894770,852600,815500,816621,823890,804450,793780,737460,..,..
+"Nusa Tenggara Barat, Prop.",ID.NB,Number of people underemployed,SL.EMP.UNDR,860701,901216,950505,839133,828817,809530,855637,867585,..,..
+"Nusa Tenggara Barat, Prop.",ID.NB,Number of people unemployed,SL.UEM.TOTL,110542,110721,113720,127710,128376,97021,79449,83257,..,..
+"Nusa Tenggara Timur, Prop.",ID.NT,Number of people employed,SL.EMP.TOTL,2096259,2127369,2104507,2174228,2219291,2277068,2320061,2411533,..,..
+"Nusa Tenggara Timur, Prop.",ID.NT,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,1360265,1308161,1284591,1321274,1368296,1214060,1271534,1319772,..,..
+"Nusa Tenggara Timur, Prop.",ID.NT,Number of people employed in construction sector,SL.EMP.CNST,59405,82365,76341,79317,74754,103451,97965,106751,..,..
+"Nusa Tenggara Timur, Prop.",ID.NT,Number of people employed in electricity and utilities sector,SL.EMP.ELC,2420,2177,3734,5038,3537,9354,6173,11095,..,..
+"Nusa Tenggara Timur, Prop.",ID.NT,Number of people employed in financial services sector,SL.EMP.FINS,20810,19162,22371,23528,29180,20806,35197,32808,..,..
+"Nusa Tenggara Timur, Prop.",ID.NT,Number of people employed in industrial sector,SL.EMP.IND,124697,159926,150998,166194,136766,167476,205314,216175,..,..
+"Nusa Tenggara Timur, Prop.",ID.NT,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,23627,29756,23052,19050,18435,29251,25686,29922,..,..
+"Nusa Tenggara Timur, Prop.",ID.NT,Number of people employed in social services sector,SL.EMP.SOCL,270189,267939,273621,291441,294123,373848,338618,338256,..,..
+"Nusa Tenggara Timur, Prop.",ID.NT,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,147439,158218,165532,177571,189109,231989,237329,252369,..,..
+"Nusa Tenggara Timur, Prop.",ID.NT,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,87407,99665,104267,90815,105091,126833,102245,104385,..,..
+"Nusa Tenggara Timur, Prop.",ID.NT,Number of people in labor force,SL.TLF,2154258,2194244,2175171,2247438,2307737,2353648,2398609,2486358,..,..
+"Nusa Tenggara Timur, Prop.",ID.NT,Number of people live below the poverty line (in number of people),SI.POV.BPL,1012900,1012500,1006900,991878,..,..,1150790,1142170,..,..
+"Nusa Tenggara Timur, Prop.",ID.NT,Number of people underemployed,SL.EMP.UNDR,1000991,1009251,1079812,1063028,1137456,987866,996722,1123071,..,..
+"Nusa Tenggara Timur, Prop.",ID.NT,Number of people unemployed,SL.UEM.TOTL,57999,66875,70664,73210,88446,76580,78548,74825,..,..
+"Papua Barat, Prop.",ID.IB,Number of people employed,SL.EMP.TOTL,336588,351184,359527,378436,380226,402360,402526,417544,..,..
+"Papua Barat, Prop.",ID.IB,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,163164,164390,177117,171340,160131,148661,141927,140447,..,..
+"Papua Barat, Prop.",ID.IB,Number of people employed in construction sector,SL.EMP.CNST,16233,16345,12955,19882,22160,30338,23483,24881,..,..
+"Papua Barat, Prop.",ID.IB,Number of people employed in electricity and utilities sector,SL.EMP.ELC,221,880,912,1726,715,877,2519,2483,..,..
+"Papua Barat, Prop.",ID.IB,Number of people employed in financial services sector,SL.EMP.FINS,4392,5768,4236,9344,7229,6629,10280,9466,..,..
+"Papua Barat, Prop.",ID.IB,Number of people employed in industrial sector,SL.EMP.IND,11580,17899,12971,16682,10357,12640,21771,27814,..,..
+"Papua Barat, Prop.",ID.IB,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,8932,10660,9529,8532,6940,8174,10002,6434,..,..
+"Papua Barat, Prop.",ID.IB,Number of people employed in social services sector,SL.EMP.SOCL,58731,62259,70614,66810,81924,104765,95068,102221,..,..
+"Papua Barat, Prop.",ID.IB,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,56325,53048,51741,62107,66924,67987,71200,74353,..,..
+"Papua Barat, Prop.",ID.IB,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,17010,19935,19452,22013,23846,22289,26276,29445,..,..
+"Papua Barat, Prop.",ID.IB,Number of people in labor force,SL.TLF,369619,370974,376081,398424,413635,434817,430478,445630,..,..
+"Papua Barat, Prop.",ID.IB,Number of people live below the poverty line (in number of people),SI.POV.BPL,249840,223200,226200,225463,225360,225810,228380,214470,..,..
+"Papua Barat, Prop.",ID.IB,Number of people underemployed,SL.EMP.UNDR,109971,122095,139170,131293,124992,137816,138997,120289,..,..
+"Papua Barat, Prop.",ID.IB,Number of people unemployed,SL.UEM.TOTL,33031,19790,16554,19988,33409,32457,27952,28086,..,..
+"Papua, Prop.",ID.PA,Number of people employed,SL.EMP.TOTL,1476227,1500267,1559675,1617437,1672480,1664485,1699071,1777207,..,..
+"Papua, Prop.",ID.PA,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,1036520,1086559,1140787,1141671,1236537,1095669,1163328,1204116,..,..
+"Papua, Prop.",ID.PA,Number of people employed in construction sector,SL.EMP.CNST,36358,27960,32757,36122,43091,42536,41363,45325,..,..
+"Papua, Prop.",ID.PA,Number of people employed in electricity and utilities sector,SL.EMP.ELC,2910,2110,1125,1961,2926,3827,1632,4058,..,..
+"Papua, Prop.",ID.PA,Number of people employed in financial services sector,SL.EMP.FINS,16483,11803,17132,16447,17813,17366,17267,14792,..,..
+"Papua, Prop.",ID.PA,Number of people employed in industrial sector,SL.EMP.IND,19885,17003,21496,16048,16182,32558,37917,32633,..,..
+"Papua, Prop.",ID.PA,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,33174,31832,23883,20160,14623,13534,16773,16226,..,..
+"Papua, Prop.",ID.PA,Number of people employed in social services sector,SL.EMP.SOCL,147906,156278,156594,217796,170518,223030,231233,239386,..,..
+"Papua, Prop.",ID.PA,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,130766,114830,113899,116847,125585,160152,136261,155407,..,..
+"Papua, Prop.",ID.PA,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,52225,51892,52002,50385,45205,75813,53297,65264,..,..
+"Papua, Prop.",ID.PA,Number of people in labor force,SL.TLF,1536728,1557089,1610484,1675113,1741945,1722162,1762841,1836271,..,..
+"Papua, Prop.",ID.PA,Number of people live below the poverty line (in number of people),SI.POV.BPL,944790,976400,960600,864113,859150,911330,897690,917630,..,..
+"Papua, Prop.",ID.PA,Number of people underemployed,SL.EMP.UNDR,482843,573070,723066,691723,736871,648642,699922,740469,..,..
+"Papua, Prop.",ID.PA,Number of people unemployed,SL.UEM.TOTL,60501,56822,50809,57676,69465,57677,63770,59064,..,..
+"Riau, Prop.",ID.RI,Number of people employed,SL.EMP.TOTL,2424180,2415949,2479493,2518485,2554296,2765946,2781021,2915597,..,..
+"Riau, Prop.",ID.RI,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,1086037,1079567,1106544,1115250,1088258,1158459,1112332,1140824,..,..
+"Riau, Prop.",ID.RI,Number of people employed in construction sector,SL.EMP.CNST,124939,122999,135356,126839,146073,157783,154491,170418,..,..
+"Riau, Prop.",ID.RI,Number of people employed in electricity and utilities sector,SL.EMP.ELC,10151,8126,6700,11338,5542,18024,5303,14009,..,..
+"Riau, Prop.",ID.RI,Number of people employed in financial services sector,SL.EMP.FINS,56332,69740,63209,56650,66484,65752,72033,71370,..,..
+"Riau, Prop.",ID.RI,Number of people employed in industrial sector,SL.EMP.IND,145753,147321,159070,163941,152471,209047,182472,217092,..,..
+"Riau, Prop.",ID.RI,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,37659,44072,43438,47155,38417,41419,28947,34958,..,..
+"Riau, Prop.",ID.RI,Number of people employed in social services sector,SL.EMP.SOCL,377035,345830,380519,373579,437884,481367,499290,465044,..,..
+"Riau, Prop.",ID.RI,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,490910,501727,493755,530233,520955,515745,609413,687709,..,..
+"Riau, Prop.",ID.RI,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,95364,96567,90902,93500,98212,118350,116740,114173,..,..
+"Riau, Prop.",ID.RI,Number of people in labor force,SL.TLF,2560402,2524396,2623310,2695247,2771349,2987952,2965585,3111317,..,..
+"Riau, Prop.",ID.RI,Number of people live below the poverty line (in number of people),SI.POV.BPL,482050,483100,511500,498281,531390,515400,514620,500440,..,..
+"Riau, Prop.",ID.RI,Number of people underemployed,SL.EMP.UNDR,913623,892969,934208,887773,888973,994771,961757,1042592,..,..
+"Riau, Prop.",ID.RI,Number of people unemployed,SL.UEM.TOTL,136222,108447,143817,176762,217053,222006,184564,195720,..,..
+"Sulawesi Barat, Prop.",ID.SR,Number of people employed,SL.EMP.TOTL,536048,575858,545438,595797,595905,624182,595004,619395,..,..
+"Sulawesi Barat, Prop.",ID.SR,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,315762,330579,314096,338649,348779,310605,299957,323280,..,..
+"Sulawesi Barat, Prop.",ID.SR,Number of people employed in construction sector,SL.EMP.CNST,20758,24408,24298,24541,28794,53971,39795,39739,..,..
+"Sulawesi Barat, Prop.",ID.SR,Number of people employed in electricity and utilities sector,SL.EMP.ELC,1236,..,694,562,920,767,304,1711,..,..
+"Sulawesi Barat, Prop.",ID.SR,Number of people employed in financial services sector,SL.EMP.FINS,4508,4346,6756,5457,6465,5076,5948,6432,..,..
+"Sulawesi Barat, Prop.",ID.SR,Number of people employed in industrial sector,SL.EMP.IND,30973,28722,24965,34285,38107,49587,41717,46390,..,..
+"Sulawesi Barat, Prop.",ID.SR,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,5629,4015,4740,4288,4877,9392,5953,5400,..,..
+"Sulawesi Barat, Prop.",ID.SR,Number of people employed in social services sector,SL.EMP.SOCL,70294,79979,77844,90465,86274,92170,97660,83402,..,..
+"Sulawesi Barat, Prop.",ID.SR,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,72203,87009,74789,82867,62485,82761,83246,97257,..,..
+"Sulawesi Barat, Prop.",ID.SR,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,14685,16800,17256,14683,19204,19853,20424,15784,..,..
+"Sulawesi Barat, Prop.",ID.SR,Number of people in labor force,SL.TLF,551631,588535,558574,608446,616549,645671,614748,639622,..,..
+"Sulawesi Barat, Prop.",ID.SR,Number of people live below the poverty line (in number of people),SI.POV.BPL,164860,160500,151700,154690,160480,152730,149760,151780,..,..
+"Sulawesi Barat, Prop.",ID.SR,Number of people underemployed,SL.EMP.UNDR,297351,324906,349856,312551,310463,259610,284975,297692,..,..
+"Sulawesi Barat, Prop.",ID.SR,Number of people unemployed,SL.UEM.TOTL,15583,12677,13136,12649,20644,21489,19744,20227,..,..
+"Sulawesi Selatan, Prop.",ID.SE,Number of people employed,SL.EMP.TOTL,3375498,3438288,3376549,3527036,3485492,3694712,3598663,3774924,..,..
+"Sulawesi Selatan, Prop.",ID.SE,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,1469245,1512607,1473322,1474491,1454451,1467989,1391639,1426501,..,..
+"Sulawesi Selatan, Prop.",ID.SE,Number of people employed in construction sector,SL.EMP.CNST,178717,185248,196241,210957,219228,262662,232673,254738,..,..
+"Sulawesi Selatan, Prop.",ID.SE,Number of people employed in electricity and utilities sector,SL.EMP.ELC,7831,15044,8423,9458,8131,13537,14545,18803,..,..
+"Sulawesi Selatan, Prop.",ID.SE,Number of people employed in financial services sector,SL.EMP.FINS,55828,59802,73290,77660,91387,60576,71009,91470,..,..
+"Sulawesi Selatan, Prop.",ID.SE,Number of people employed in industrial sector,SL.EMP.IND,223246,231455,200084,202003,230459,282754,262936,341716,..,..
+"Sulawesi Selatan, Prop.",ID.SE,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,29038,25857,22450,17774,25256,40247,28715,24283,..,..
+"Sulawesi Selatan, Prop.",ID.SE,Number of people employed in social services sector,SL.EMP.SOCL,575863,589576,611494,703903,616355,634378,652899,586847,..,..
+"Sulawesi Selatan, Prop.",ID.SE,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,654516,634355,618379,673726,688331,769767,766755,854478,..,..
+"Sulawesi Selatan, Prop.",ID.SE,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,181214,184344,172866,157064,151894,162802,177492,176088,..,..
+"Sulawesi Selatan, Prop.",ID.SE,Number of people in labor force,SL.TLF,3612424,3657419,3558183,3715801,3706128,3881003,3812358,3988410,..,..
+"Sulawesi Selatan, Prop.",ID.SE,Number of people live below the poverty line (in number of people),SI.POV.BPL,832910,825800,863200,806345,797720,807030,813070,792630,..,..
+"Sulawesi Selatan, Prop.",ID.SE,Number of people underemployed,SL.EMP.UNDR,1388485,1339425,1493568,1298449,1306311,1275261,1295011,1348344,..,..
+"Sulawesi Selatan, Prop.",ID.SE,Number of people unemployed,SL.UEM.TOTL,236926,219131,181634,188765,220636,186291,213695,213486,..,..
+"Sulawesi Tengah, Prop.",ID.ST,Number of people employed,SL.EMP.TOTL,1260999,1229597,1239122,1293226,1327418,1459803,1374214,1451491,..,..
+"Sulawesi Tengah, Prop.",ID.ST,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,654739,615957,616499,616626,664142,669959,608746,639023,..,..
+"Sulawesi Tengah, Prop.",ID.ST,Number of people employed in construction sector,SL.EMP.CNST,57492,65836,65740,71949,73525,82005,83518,80868,..,..
+"Sulawesi Tengah, Prop.",ID.ST,Number of people employed in electricity and utilities sector,SL.EMP.ELC,1812,3149,3669,2357,2453,4289,2983,10364,..,..
+"Sulawesi Tengah, Prop.",ID.ST,Number of people employed in financial services sector,SL.EMP.FINS,15792,19880,18263,16775,17328,27623,20905,25692,..,..
+"Sulawesi Tengah, Prop.",ID.ST,Number of people employed in industrial sector,SL.EMP.IND,65750,66457,62348,63587,53869,89766,86986,109919,..,..
+"Sulawesi Tengah, Prop.",ID.ST,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,26254,31455,21307,16044,24035,22239,30491,23061,..,..
+"Sulawesi Tengah, Prop.",ID.ST,Number of people employed in social services sector,SL.EMP.SOCL,204436,206774,230477,255211,233497,272865,277670,266624,..,..
+"Sulawesi Tengah, Prop.",ID.ST,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,190410,179066,176118,206094,217697,237631,218002,246244,..,..
+"Sulawesi Tengah, Prop.",ID.ST,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,44314,41023,44701,44583,40872,53426,44913,49696,..,..
+"Sulawesi Tengah, Prop.",ID.ST,Number of people in labor force,SL.TLF,1313680,1279717,1293332,1342615,1384235,1509505,1428583,1502972,..,..
+"Sulawesi Tengah, Prop.",ID.ST,Number of people live below the poverty line (in number of people),SI.POV.BPL,423630,418600,400400,387060,421630,420520,417870,420210,..,..
+"Sulawesi Tengah, Prop.",ID.ST,Number of people underemployed,SL.EMP.UNDR,514133,488857,575833,498641,492184,472413,492630,546029,..,..
+"Sulawesi Tengah, Prop.",ID.ST,Number of people unemployed,SL.UEM.TOTL,52681,50120,54210,49389,56817,49702,54369,51481,..,..
+"Sulawesi Tenggara, Prop.",ID.SG,Number of people employed,SL.EMP.TOTL,1026548,1000570,997231,1037419,1074916,1219548,1160974,1207488,..,..
+"Sulawesi Tenggara, Prop.",ID.SG,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,467200,410424,417001,442148,489289,474619,430346,427659,..,..
+"Sulawesi Tenggara, Prop.",ID.SG,Number of people employed in construction sector,SL.EMP.CNST,54277,64196,54224,61169,72427,81113,75254,77222,..,..
+"Sulawesi Tenggara, Prop.",ID.SG,Number of people employed in electricity and utilities sector,SL.EMP.ELC,1901,1954,2555,2646,2592,2449,5191,6626,..,..
+"Sulawesi Tenggara, Prop.",ID.SG,Number of people employed in financial services sector,SL.EMP.FINS,11538,11931,15886,16787,17199,19072,23806,18894,..,..
+"Sulawesi Tenggara, Prop.",ID.SG,Number of people employed in industrial sector,SL.EMP.IND,51782,64300,56921,53423,53419,90446,98330,108336,..,..
+"Sulawesi Tenggara, Prop.",ID.SG,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,38159,31908,30237,26241,22809,25771,22479,31387,..,..
+"Sulawesi Tenggara, Prop.",ID.SG,Number of people employed in social services sector,SL.EMP.SOCL,175356,181253,190168,195932,183733,225534,242184,237013,..,..
+"Sulawesi Tenggara, Prop.",ID.SG,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,169917,186283,181798,193476,191053,243357,222351,255582,..,..
+"Sulawesi Tenggara, Prop.",ID.SG,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,56418,48321,48441,45597,42395,57187,41033,44769,..,..
+"Sulawesi Tenggara, Prop.",ID.SG,Number of people in labor force,SL.TLF,1058999,1043390,1042947,1085509,1138045,1253624,1200605,1248212,..,..
+"Sulawesi Tenggara, Prop.",ID.SG,Number of people live below the poverty line (in number of people),SI.POV.BPL,330000,316300,330800,314086,321880,326870,331710,307100,..,..
+"Sulawesi Tenggara, Prop.",ID.SG,Number of people underemployed,SL.EMP.UNDR,407542,438285,490173,427953,421254,406118,423091,441020,..,..
+"Sulawesi Tenggara, Prop.",ID.SG,Number of people unemployed,SL.UEM.TOTL,32451,42820,45716,48090,63129,34076,39631,40724,..,..
+"Sulawesi Utara, Prop.",ID.SW,Number of people employed,SL.EMP.TOTL,990720,976997,965457,980756,1000032,1110564,1040826,1095145,..,..
+"Sulawesi Utara, Prop.",ID.SW,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,321121,321810,333103,320963,319336,397913,264679,269884,..,..
+"Sulawesi Utara, Prop.",ID.SW,Number of people employed in construction sector,SL.EMP.CNST,82431,77696,74315,79244,84546,79709,94604,96915,..,..
+"Sulawesi Utara, Prop.",ID.SW,Number of people employed in electricity and utilities sector,SL.EMP.ELC,4653,3849,3458,3447,3448,5707,4872,6951,..,..
+"Sulawesi Utara, Prop.",ID.SW,Number of people employed in financial services sector,SL.EMP.FINS,22856,25113,31040,29700,26308,26646,35873,33388,..,..
+"Sulawesi Utara, Prop.",ID.SW,Number of people employed in industrial sector,SL.EMP.IND,65984,58846,52064,71289,67669,64008,82781,99228,..,..
+"Sulawesi Utara, Prop.",ID.SW,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,24806,29967,23402,20748,18532,15924,23140,29055,..,..
+"Sulawesi Utara, Prop.",ID.SW,Number of people employed in social services sector,SL.EMP.SOCL,199622,185899,184703,180371,189323,222735,225694,212988,..,..
+"Sulawesi Utara, Prop.",ID.SW,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,196182,193434,190921,195880,207470,222935,231717,254142,..,..
+"Sulawesi Utara, Prop.",ID.SW,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,73065,80383,72451,79114,83400,74987,77466,92594,..,..
+"Sulawesi Utara, Prop.",ID.SW,Number of people in labor force,SL.TLF,1084203,1060969,1035772,1060752,1099272,1183721,1121309,1175809,..,..
+"Sulawesi Utara, Prop.",ID.SW,Number of people live below the poverty line (in number of people),SI.POV.BPL,194900,189100,201100,197556,208540,202820,198880,193310,..,..
+"Sulawesi Utara, Prop.",ID.SW,Number of people underemployed,SL.EMP.UNDR,290914,279586,296602,272879,261822,282671,278056,294936,..,..
+"Sulawesi Utara, Prop.",ID.SW,Number of people unemployed,SL.UEM.TOTL,93483,83972,70315,79996,99240,73157,80483,80664,..,..
+"Sumatera Barat, Prop.",ID.SB,Number of people employed,SL.EMP.TOTL,2070725,2094589,2061109,2180336,2184599,2347911,2344972,2410450,..,..
+"Sumatera Barat, Prop.",ID.SB,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,813699,854453,817903,818714,856437,855583,824649,836071,..,..
+"Sumatera Barat, Prop.",ID.SB,Number of people employed in construction sector,SL.EMP.CNST,127991,116043,100933,115213,114354,115233,137608,146766,..,..
+"Sumatera Barat, Prop.",ID.SB,Number of people employed in electricity and utilities sector,SL.EMP.ELC,9124,5031,4837,6530,7373,11041,8750,14154,..,..
+"Sumatera Barat, Prop.",ID.SB,Number of people employed in financial services sector,SL.EMP.FINS,40489,42966,43177,46915,45462,59492,45997,54525,..,..
+"Sumatera Barat, Prop.",ID.SB,Number of people employed in industrial sector,SL.EMP.IND,153130,162058,132286,149483,146076,206057,199994,210052,..,..
+"Sumatera Barat, Prop.",ID.SB,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,29824,32650,36004,40899,31254,63930,37611,39617,..,..
+"Sumatera Barat, Prop.",ID.SB,Number of people employed in social services sector,SL.EMP.SOCL,347710,332148,354369,418986,376013,414884,421121,370882,..,..
+"Sumatera Barat, Prop.",ID.SB,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,441786,445529,472804,487056,511173,517570,572835,637272,..,..
+"Sumatera Barat, Prop.",ID.SB,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,106972,103711,98796,96540,96457,104121,96407,101111,..,..
+"Sumatera Barat, Prop.",ID.SB,Number of people in labor force,SL.TLF,2213513,2242492,2216687,2331993,2346163,2473814,2483675,2552130,..,..
+"Sumatera Barat, Prop.",ID.SB,Number of people live below the poverty line (in number of people),SI.POV.BPL,442090,404700,384100,354738,379610,371550,364510,357130,..,..
+"Sumatera Barat, Prop.",ID.SB,Number of people underemployed,SL.EMP.UNDR,754947,828992,895634,804696,740453,762849,801781,793035,..,..
+"Sumatera Barat, Prop.",ID.SB,Number of people unemployed,SL.UEM.TOTL,142788,147903,155578,151657,161564,125903,138703,141680,..,..
+"Sumatera Selatan, Prop.",ID.SL,Number of people employed,SL.EMP.TOTL,3553104,3601561,3524883,3692806,3695866,3998637,3942534,3963870,..,..
+"Sumatera Selatan, Prop.",ID.SL,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,2029448,2021183,1933891,1970717,2023064,1936722,1902120,1844251,..,..
+"Sumatera Selatan, Prop.",ID.SL,Number of people employed in construction sector,SL.EMP.CNST,124580,145154,134602,166907,167807,171669,191045,202956,..,..
+"Sumatera Selatan, Prop.",ID.SL,Number of people employed in electricity and utilities sector,SL.EMP.ELC,5949,6732,6815,6392,6333,9301,8933,11453,..,..
+"Sumatera Selatan, Prop.",ID.SL,Number of people employed in financial services sector,SL.EMP.FINS,61203,73322,79095,65748,59468,57576,65141,65154,..,..
+"Sumatera Selatan, Prop.",ID.SL,Number of people employed in industrial sector,SL.EMP.IND,168171,200454,171486,186597,173890,214929,279370,308661,..,..
+"Sumatera Selatan, Prop.",ID.SL,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,42225,49353,52693,37637,57481,70355,51348,55283,..,..
+"Sumatera Selatan, Prop.",ID.SL,Number of people employed in social services sector,SL.EMP.SOCL,433440,458076,473733,491286,451600,658178,616883,504690,..,..
+"Sumatera Selatan, Prop.",ID.SL,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,558401,522812,544772,616163,621510,721403,672728,781037,..,..
+"Sumatera Selatan, Prop.",ID.SL,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,129687,124475,127796,151359,134713,158504,154966,190385,..,..
+"Sumatera Selatan, Prop.",ID.SL,Number of people in labor force,SL.TLF,3770673,3814093,3704132,3885674,3934787,4178794,4123669,4140130,..,..
+"Sumatera Selatan, Prop.",ID.SL,Number of people live below the poverty line (in number of people),SI.POV.BPL,1074810,1057000,1104600,1085795,..,..,1086920,1068270,..,..
+"Sumatera Selatan, Prop.",ID.SL,Number of people underemployed,SL.EMP.UNDR,1455728,1522769,1669061,1550532,1409301,1333370,1366234,1463283,..,..
+"Sumatera Selatan, Prop.",ID.SL,Number of people unemployed,SL.UEM.TOTL,217569,212532,179249,192868,238921,180157,181135,176260,..,..
+"Sumatera Utara, Prop.",ID.SU,Number of people employed,SL.EMP.TOTL,5912114,5902424,6081301,5881371,5962304,5991229,6365989,6728431,..,..
+"Sumatera Utara, Prop.",ID.SU,"Number of people employed in agriculture, forestry and fishery",SL.EMP.AGR.FRST.FSH,2595244,2519083,2656799,2500956,2462138,2666046,2388570,2390797,..,..
+"Sumatera Utara, Prop.",ID.SU,Number of people employed in construction sector,SL.EMP.CNST,332780,382000,399846,376642,359774,308242,341769,353259,..,..
+"Sumatera Utara, Prop.",ID.SU,Number of people employed in electricity and utilities sector,SL.EMP.ELC,11390,19017,20396,17213,9304,23225,21095,47001,..,..
+"Sumatera Utara, Prop.",ID.SU,Number of people employed in financial services sector,SL.EMP.FINS,118250,106459,129698,121222,135297,104494,157489,143366,..,..
+"Sumatera Utara, Prop.",ID.SU,Number of people employed in industrial sector,SL.EMP.IND,483988,461445,428182,461372,450445,456473,574570,687491,..,..
+"Sumatera Utara, Prop.",ID.SU,Number of people employed in mining and quarrying sector,SL.EMP.MINQ,30288,40355,37545,32463,28274,50064,40276,40835,..,..
+"Sumatera Utara, Prop.",ID.SU,Number of people employed in social services sector,SL.EMP.SOCL,884449,924562,979289,905175,921592,905913,1098863,1066438,..,..
+"Sumatera Utara, Prop.",ID.SU,"Number of people employed in trade, hotel and restaurant sector",SL.EMP.TRAD,1208842,1161899,1151357,1180919,1271494,1152010,1410559,1626250,..,..
+"Sumatera Utara, Prop.",ID.SU,Number of people employed in transportation and telecommunication sector,SL.EMP.TRAN,246883,287604,278189,285409,323986,324762,332798,372994,..,..
+"Sumatera Utara, Prop.",ID.SU,Number of people in labor force,SL.TLF,6314239,6294316,6500750,6272083,6391098,6362909,6743277,7124458,..,..
+"Sumatera Utara, Prop.",ID.SU,Number of people live below the poverty line (in number of people),SI.POV.BPL,1481310,1407200,1416400,1360599,..,..,1453870,1324980,..,..
+"Sumatera Utara, Prop.",ID.SU,Number of people underemployed,SL.EMP.UNDR,1926094,1783501,1765533,1857289,1974318,1871841,1915120,2147807,..,..
+"Sumatera Utara, Prop.",ID.SU,Number of people unemployed,SL.UEM.TOTL,402125,391892,419449,390712,428794,371680,377288,396027,..,..
